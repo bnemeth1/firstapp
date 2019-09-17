@@ -1,0 +1,11 @@
+header>h1 {
+   color: forestgreen;
+}
+
+header>h2{
+    color: whitesmoke;
+}
+
+header{
+    background-color:black;
+}
